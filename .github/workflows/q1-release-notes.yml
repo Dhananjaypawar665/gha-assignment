@@ -1,4 +1,4 @@
- name: Q1 Release Notes
+name: Q1 Release Notes
 
 on:
   workflow_dispatch:
